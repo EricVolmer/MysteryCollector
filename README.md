@@ -16,12 +16,12 @@ https://www.youtube.com/watch?v=ZrmqEJncXtA
 
 
 Assets used in the game are:
-Bizulka ( witches house )
-DreamForestTree ( the trees in the game )
-Hatchback and Sedan ( the easter egg )
-Laterns and candles
-MEdieval_house_lite ( ending house )
-Mini Alchemy ( collectables )
-Rock Package
-SkySerie Freebie ( the sky )
+Bizulka ( witches house ),
+DreamForestTree ( the trees in the game ),
+Hatchback and Sedan ( the easter egg ),
+Laterns and candles,
+MEdieval_house_lite ( ending house ),
+Mini Alchemy ( collectables ),
+Rock Package,
+SkySerie Freebie ( the sky ),
 Unity's own , Standard Assets.
